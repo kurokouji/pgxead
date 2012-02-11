@@ -1,0 +1,2 @@
+﻿渡辺幸三氏のOSS、XEAD Driverのを
+PostgreSQLに対応するための手順書です。
